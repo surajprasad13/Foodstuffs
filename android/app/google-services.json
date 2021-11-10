@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "186705231635",
+    "firebase_url": "https://foodstuffs-a0e66-default-rtdb.firebaseio.com",
+    "project_id": "foodstuffs-a0e66",
+    "storage_bucket": "foodstuffs-a0e66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186705231635:android:5d6e50cc9833685995e4e6",
+        "android_client_info": {
+          "package_name": "com.foodstuffs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186705231635-juse7a468akn0hfro8lelh3453f1hd4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu5QetG6z5F0a8ktvbIUTPnHGnVqS6aU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186705231635-juse7a468akn0hfro8lelh3453f1hd4v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "186705231635-1vg2hhrsv1g9saan59jlnul57jni69j1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Foodstuffs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
